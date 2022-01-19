@@ -1,0 +1,7 @@
+.Tag {
+    border: 'black';
+    border-style: solid;
+    border-width: 2px;
+    display: inline-block;
+    margin-right: 5px;
+}

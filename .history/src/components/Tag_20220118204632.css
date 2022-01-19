@@ -1,0 +1,14 @@
+.Tag {
+    border: 'black';
+    border-style: solid;
+    border-width: 2px;
+    display: inline-block;
+    margin-right: 5px;
+    font-size: 12px;
+
+    border-radius: 25px;
+    background: #73AD21;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+}
